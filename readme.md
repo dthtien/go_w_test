@@ -4,7 +4,8 @@
 - [x] Day 3: [Interation](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/iteration)
 - [x] Day 4: [Array and slices](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/arrays-and-slices)
 - [x] Day 5: [Structs, methods and interfaces](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/structs-methods-and-interfaces)
-- [ ] Day 6: [Pointers and errors](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors)
+- [x] Day 6: [Pointers and errors](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors)
+- [ ] Day 7 [Map](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps)
 
 # References
 https://quii.gitbook.io/learn-go-with-tests/go-fundamentals
