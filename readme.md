@@ -7,6 +7,7 @@
 - [x] Day 6: [Pointers and errors](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/pointers-and-errors)
 - [x] Day 7: [Map](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps)
 - [x] Day 8: [Dependency Injection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection)
-- [ ] Day 9: [Mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking), [Concurrency](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency)
+- [x] Day 9: [Mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking), [Concurrency](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency)
+- [ ] Day 10: [Select](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select), [Reflection]*(https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)
 # References
 https://quii.gitbook.io/learn-go-with-tests/go-fundamentals
