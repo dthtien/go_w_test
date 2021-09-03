@@ -8,6 +8,6 @@
 - [x] Day 7: [Map](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/maps)
 - [x] Day 8: [Dependency Injection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection)
 - [x] Day 9: [Mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking), [Concurrency](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency)
-- [ ] Day 10: [Select](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select), [Reflection]*(https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)
+- [ ] Day 10: [Select](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select), [Reflection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)
 # References
 https://quii.gitbook.io/learn-go-with-tests/go-fundamentals
