@@ -9,6 +9,9 @@
 - [x] Day 8: [Dependency Injection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/dependency-injection)
 - [x] Day 9: [Mocking](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/mocking), [Concurrency](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/concurrency)
 - [x] Day 10: [Select](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/select), [Reflection](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reflection)
-- [ ] Day 11: [Sync](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/sync)
+- [x] Day 11: [Sync](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/sync)
+- [x] Day 12: [context](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/context)
+- [x] Day 13: [Intro to property based tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/roman-numerals)
+- [x] Day 14: [Math](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/math)
 # References
 https://quii.gitbook.io/learn-go-with-tests/go-fundamentals
