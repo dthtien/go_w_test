@@ -13,5 +13,6 @@
 - [x] Day 12: [context](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/context)
 - [x] Day 13: [Intro to property based tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/roman-numerals)
 - [x] Day 14: [Math](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/math)
+- [x] Day 15: [Reading files](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/reading-files)
 # References
 https://quii.gitbook.io/learn-go-with-tests/go-fundamentals
